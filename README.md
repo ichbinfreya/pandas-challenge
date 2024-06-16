@@ -9,3 +9,13 @@ On the one hand, students's academic performance decreases as the school size in
 
 On the other hand, independent schools have higher average scores in both maths and reading compared to government schools. Significantly, the average maths score for independent schools is 71.37, while for government schools, it is 69.83. Similarly, the average reading score for independent schools is 70.72, compared to 69.68 for government schools.
 Regarding to the passing rate, we can see there is 89.20% of students passing maths and 86.25% passing reading in independent schools, while 84.46% of students passing maths and 83.59% passing reading for government schools.
+
+Recommendations
+Here are some recommondations of tailored strategies for improvement in shool academic performance, based on the data analysis:
+(These data-driven observations may be taken into considerations for School Principals or Vice-Presidents, academic teams or educational stakeholers.)
+
+Regarding to Government Schools, they could focus on optimizing the acedemic performance of larger schools by utilizing successful leverage-practices or protocols from smaller schools and independent schools. This could include reducing class sizes or improving teacher-student ratios, optimizing available resources, and providing best support for students and teachers.
+
+For Independent Schools, they could continue their current effective practices that maintain high performance across various school sizes. In addition, they may share best practices with government schools, which could increase overall educational standards locally or even within the country.
+
+Additionally, further research can took in place and discover into the specific practices and what kind of resources that contribute to the higher performance of independent schools and smaller government schools. More relevant data could provide broader and valuable insights for policy development and implementation.
